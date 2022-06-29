@@ -4,6 +4,6 @@
   box-sizing: border-box;
 }
 
-header h1 {
-  color: #000;
+.header {
+  color: red;
 }
